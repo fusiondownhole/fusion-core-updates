@@ -1,0 +1,14 @@
+﻿{
+    "modules":  [
+                    {
+                        "id":  "ust_qc",
+                        "name":  "UST QC",
+                        "version":  "04MAY26",
+                        "module_path":  "processing/UST/QC",
+                        "artifact_url":  "ust_qc-04MAY26-pyarmor.zip",
+                        "sha256":  "ddf707ca8fa529a87512e92d9cada66d0a83ba31aecf0a3e997e141148476253",
+                        "notes":  "UST QC module update.",
+                        "built_at":  "2026-05-04T15:22:05"
+                    }
+                ]
+}
