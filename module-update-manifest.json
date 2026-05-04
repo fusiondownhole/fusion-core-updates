@@ -6,9 +6,9 @@
                         "version":  "04MAY26",
                         "module_path":  "processing/UST/QC",
                         "artifact_url":  "ust_qc-04MAY26-module.zip",
-                        "sha256":  "2c38f9937b2161ebf8e8795dae731177cc46554b36dab5c5c121bc4c387c2016",
+                        "sha256":  "2e6cc62fd37fe0d4c50de0437790795d0f152d9ac1099d1e6ed6a0ba2cf7f03e",
                         "notes":  "UST QC module update.",
-                        "built_at":  "2026-05-04T15:50:52"
+                        "built_at":  "2026-05-04T16:03:07"
                     }
                 ]
 }
