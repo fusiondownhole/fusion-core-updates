@@ -3,6 +3,16 @@
                     {
                         "id":  "ust_qc",
                         "name":  "UST QC",
+                        "version":  "07MAY26B",
+                        "module_path":  "processing/UST/QC",
+                        "artifact_url":  "ust_qc-07MAY26B-module.zip",
+                        "sha256":  "91b330e26b6cd6492cbd1dbbbf39bc2285d7cb5fe52d7ece61b7cc85882bc430",
+                        "notes":  "UST QC module update.",
+                        "built_at":  "2026-05-07T14:36:07"
+                    },
+                    {
+                        "id":  "ust_qc",
+                        "name":  "UST QC",
                         "version":  "07MAY26",
                         "module_path":  "processing/UST/QC",
                         "artifact_url":  "ust_qc-07MAY26-module.zip",
